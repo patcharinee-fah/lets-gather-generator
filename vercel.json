@@ -3,7 +3,7 @@
     "api/convert.js": {
       "includeFiles": "api/fonts/**"
     },
-    "api/check.js": {
+    "api/merge-pdf.js": {
       "includeFiles": "api/fonts/**"
     }
   }

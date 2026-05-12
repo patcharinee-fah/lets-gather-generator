@@ -1,0 +1,8 @@
+{
+  "name": "lets-gather-generator",
+  "version": "1.0.0",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "pdf-lib": "^1.17.1"
+  }
+}

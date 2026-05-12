@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/convert.js": {
+      "includeFiles": "api/fonts/**"
+    },
+    "api/check.js": {
+      "includeFiles": "api/fonts/**"
+    }
+  }
+}
